@@ -26,7 +26,7 @@ This project was developed using the following technologies:
 
 ## 💻 Project
 
-- [Visit the online project](https://pedrohfaig.github.io/Mentorship-schedule-form)
+- [Visit the online project](https://pedrohfaig.github.io/mentorship-schedule-form)
 
 ---
 
